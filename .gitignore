@@ -1,0 +1,5 @@
+# Mengabaikan berkas .env
+.env
+
+# Mengabaikan direktori .node_modules
+node_modules
